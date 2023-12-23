@@ -3,8 +3,11 @@ Adaptation of <a href="https://github.com/kamranahmedse/design-patterns-for-huma
 </h3>
 <p align="center"><sub>All the explanation for design patterns stays the same, with minor changes.</sub></p>
 
+<a href="https://refactoring.guru/design-patterns/csharp">Good reference - refactoring guru</a>
+
 ****
-<a href="[https://github.com/kamranahmedse/design-patterns-for-humans](https://refactoring.guru/design-patterns/csharp)">Good reference</a>
+
+
 
 
 <p align="center">
