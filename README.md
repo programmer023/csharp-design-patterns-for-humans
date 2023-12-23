@@ -47,6 +47,8 @@ Types of Design Patterns
 * [Structural](#structural-design-patterns)
 * [Behavioral](#behavioral-design-patterns)
 
+![23 design patterns](design-patterns.jpg?raw=true)
+
 Creational Design Patterns
 ==========================
 
